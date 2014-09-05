@@ -57,6 +57,7 @@ float total;
     selectNumber=selectNumber*10;
     selectNumber=selectNumber+7;
     NSLog(@"Hello");
+    NSLog(@"jayavelu");
     screen.text=[NSString stringWithFormat:@"%i",selectNumber];
     
 }
