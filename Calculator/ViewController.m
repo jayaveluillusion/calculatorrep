@@ -58,6 +58,7 @@ float total;
     selectNumber=selectNumber+7;
     NSLog(@"Hello");
     NSLog(@"jayavelu");
+    NSLog(@"Changed in branch");
     screen.text=[NSString stringWithFormat:@"%i",selectNumber];
     
 }
