@@ -15,6 +15,8 @@
     // Override point for customization after application launch.
     NSLog(@"something");
     
+    NSLog(@"saranya modified");
+    
     return YES;
 }
 							
