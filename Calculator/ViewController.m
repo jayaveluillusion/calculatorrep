@@ -42,30 +42,35 @@ float total;
 -(IBAction)selector5:(id)sender{
     selectNumber=selectNumber*10;
     selectNumber=selectNumber+5;
+    NSLog(@"Hello");
     screen.text=[NSString stringWithFormat:@"%i",selectNumber];
     
 }
 -(IBAction)selector6:(id)sender{
     selectNumber=selectNumber*10;
     selectNumber=selectNumber+6;
+    NSLog(@"Hello");
     screen.text=[NSString stringWithFormat:@"%i",selectNumber];
     
 }
 -(IBAction)selector7:(id)sender{
     selectNumber=selectNumber*10;
     selectNumber=selectNumber+7;
+    NSLog(@"Hello");
     screen.text=[NSString stringWithFormat:@"%i",selectNumber];
     
 }
 -(IBAction)selector8:(id)sender{
     selectNumber=selectNumber*10;
     selectNumber=selectNumber+8;
+    NSLog(@"Hello");
     screen.text=[NSString stringWithFormat:@"%i",selectNumber];
     
 }
 -(IBAction)selector9:(id)sender{
     selectNumber=selectNumber*10;
     selectNumber=selectNumber+9;
+    NSLog(@"Hello");
     screen.text=[NSString stringWithFormat:@"%i",selectNumber];
     
 }
