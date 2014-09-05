@@ -42,7 +42,7 @@ float total;
 -(IBAction)selector5:(id)sender{
     selectNumber=selectNumber*10;
     selectNumber=selectNumber+5;
-    NSLog(@"Hello");
+    NSLog(@"Hellodfdh");
     screen.text=[NSString stringWithFormat:@"%i",selectNumber];
     
 }
